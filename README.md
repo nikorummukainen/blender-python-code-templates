@@ -2,6 +2,9 @@
 
 Python snippets for Blender python code.
 
+> VScode marketplace link:
+https://marketplace.visualstudio.com/items?itemName=blenderfreetimeprojects.blender-python-code-templates
+
 ## Features
 
 Just code snippets of blender python code for now.
