@@ -5,6 +5,9 @@ Python snippets for Blender python code.
 > VScode marketplace link:
 https://marketplace.visualstudio.com/items?itemName=blenderfreetimeprojects.blender-python-code-templates
 
+> Blender addon for turning .py files into .json snippets
+link here
+
 ## Features
 
 Just code snippets of blender python code for now.
