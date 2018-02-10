@@ -7,7 +7,7 @@
     "lisence":"SEE LICENSE IN file ./LISENCE",
     "repository": {
         "type": "git",
-        "url": "https://github.com/nikorummukainen/blender-python-code-templates.git",
+        "url": "https://github.com/nikorummukainen/blender-python-code-templates.git"
     },
     "engines": {
         "vscode": "^1.19.0"
