@@ -5,25 +5,19 @@ Python snippets for Blender python code.
 > VScode marketplace link:
 https://marketplace.visualstudio.com/items?itemName=blenderfreetimeprojects.blender-python-code-templates
 
-> Blender addon for turning .py files into .json snippets
-link here
+> Blender addon for turning files/blender texteditor content into .json snippets
+https://github.com/nikorummukainen/blender-snippet-generator
 
 ## Features
 
 Just code snippets of blender python code for now.
 
-## Known Issues
+now snippets include templates for Blender python api:
 
-None at the moment
-
-## Release Notes
-
-### 0.9.0 beta
-now snippets include templates for Blender python:
 Snippet                         prefix,
-
 Addon info                      info,
-License                         license,
+License GNU                     license gnu,
+License MIT                     license mit,
 Menu                            menu,
 Operator                        operator,
 Modal operator                  operator,
@@ -66,11 +60,72 @@ ui pie menu                     template,
 ui previews custom icon         template,
 ui previews dynamic enum        template
 
+## Known Issues
+
+None at the moment
+
+## Release Notes
+
+### 0.9.0 beta
+now snippets include templates for Blender python api:
+
+Snippets
+Addon info
+License GNU
+Menu
+Operator
+Modal operator
+Modal operator draw
+Panel
+Pie Menu
+Register
+Keymap
+Keymap item
+addon add object
+background job
+batch export
+bmesh simple
+bmesh simple editmode
+builtin keyingset
+custom nodes
+driver functions
+external script stub
+gamelogic
+gamelogic module
+gamelogic simple
+operator file export
+operator file import
+operator mesh add
+operator mesh uv
+operator modal
+operator modal draw
+operator modal timer
+operator modal view3d
+operator modal view3d raycast,
+operator node
+operator simple
+ui list
+ui list simple
+ui menu,
+ui menu simple
+ui panel
+ui panel simple
+ui pie menu
+ui previews custom icon
+ui previews dynamic enum
+
 ### 0.9.1
 
 removed unnecesary newlines from templates.
 
 ### 0.9.2
+added link to marketplace page to README.md
+added github repository to package.json
+added link to github repository to README.md
+
+new snippets:
+mit license
+
 
 -----------------------------------------------------------------------------------------------------------
 
