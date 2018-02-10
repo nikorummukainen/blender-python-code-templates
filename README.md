@@ -121,7 +121,7 @@ ui previews dynamic enum
 
 removed unnecesary newlines from templates.
 
-### 0.9.2
+### 0.9.4
 added link to marketplace page to README.md
 added github repository to package.json
 added link to github repository to README.md
@@ -129,7 +129,6 @@ added link to snippet generator addon github repository to README.md
 
 new snippets:
 mit license
-
 
 -----------------------------------------------------------------------------------------------------------
 
