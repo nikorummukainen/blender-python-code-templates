@@ -2,6 +2,9 @@
 
 Python snippets for Blender python code.
 
+> GitHub repository link:
+https://github.com/nikorummukainen/blender-python-code-templates
+
 > VScode marketplace link:
 https://marketplace.visualstudio.com/items?itemName=blenderfreetimeprojects.blender-python-code-templates
 
