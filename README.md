@@ -1,15 +1,12 @@
-# blender-python-code-templates README
+# blender-python-code-templates
 
 Python snippets for Blender python code.
 
-> GitHub repository link:
-https://github.com/nikorummukainen/blender-python-code-templates
+> [GitHub repository link](https://github.com/nikorummukainen/blender-python-code-templates)
 
-> VScode marketplace link:
-https://marketplace.visualstudio.com/items?itemName=blenderfreetimeprojects.blender-python-code-templates
+> [Addon at VScode Marketplace](https://marketplace.visualstudio.com/items?itemName=blenderfreetimeprojects.blender-python-code-templates)
 
-> Blender addon for turning files/blender texteditor content into .json snippets
-https://github.com/nikorummukainen/blender-snippet-generator
+> [Blender addon for turning files/blender texteditor content into .json snippets](https://github.com/nikorummukainen/blender-snippet-generator)
 
 ## Features
 
@@ -119,7 +116,7 @@ ui previews dynamic enum
 
 ### 0.9.1
 
-removed unnecesary newlines from templates.
+removed unnecessary newlines from templates.
 
 ### 0.9.4
 added link to marketplace page to README.md
@@ -133,18 +130,10 @@ mit license
 -----------------------------------------------------------------------------------------------------------
 
 # Thanks
-Alan 
-he's work with blender vscode debugger is awesome!
-https://github.com/alanscodelog/blender-debugger-for-vscode
+Alan for his [Blender VS Code Debugger](https://github.com/alanscodelog/blender-debugger-for-vscode) addon, it's awesome!
 
-Ideasman42 and other who have contibuted to https://wiki.blender.org
-for providing instructions how to build blender as python module.
-now my linter understands blender.
-https://wiki.blender.org/index.php/User:Ideasman42/BlenderAsPyModule
+Ideasman42 and others who have contributed to [the Blender Wiki](https://wiki.blender.org) for providing instructions on [how to build Blender as python module](https://wiki.blender.org/index.php/User:Ideasman42/BlenderAsPyModule). Now my linter understands Blender.
 
-Jacques Lucke awesome blender addon  
-https://www.blendermarket.com/products/code-autocomplete
+Jacques Lucke's awesome Blender addon: [Code Autocomplete](https://www.blendermarket.com/products/code-autocomplete).
 
-Blender developpers!
-for porviding this awesome package known as blender
-for python code templates
+Blender developers! for providing the awesome package known as Blender and the python code templates.

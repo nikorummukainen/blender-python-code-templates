@@ -16,8 +16,8 @@
         ],
         "description": "Blender addon info"
     },
-    "GNU_lisence": {
-        "prefix": "lisence gnu",
+    "GNU_license": {
+        "prefix": "license gnu",
         "body": [
             "'''",
             "Copyright (C) ${1:2018} ${2:ADDONCREATORNAME}",
@@ -39,10 +39,10 @@
             "    along with this program.  If not, see <http://www.gnu.org/licenses/>.",
             "'''"
         ],
-        "description": "GNU lisence"
+        "description": "GNU license"
     },
-    "lisence_MIT": {
-        "prefix": "lisence mit",
+    "license_MIT": {
+        "prefix": "license mit",
         "body": [
             "MIT License",
             "",

@@ -4,7 +4,7 @@
     "description": "Templates for Blender Addon development. Templates translated are from Blender python templates and from Jacques Lucke's Code Autocomplete addon with my own additions.",
     "version": "0.9.4",
     "publisher": "blenderfreetimeprojects",
-    "lisence": "SEE LICENSE IN file ./LISENCE",
+    "license": "MIT",
     "icon": "images/icon.png",
     "repository": {
         "type": "git",
