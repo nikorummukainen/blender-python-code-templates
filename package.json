@@ -23,5 +23,8 @@
                 "path": "./snippets/snippets.json"
             }
         ]
+    },
+    "scripts": {
+       "table": "node helpers/documentation_table.js"
     }
 }

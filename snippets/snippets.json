@@ -66,7 +66,7 @@
             "OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE",
             "SOFTWARE."
         ],
-        "description": "short description"
+        "description": "MIT license"
     },
     "keymap_item": {
         "prefix": "keymap item",
@@ -82,7 +82,7 @@
             "\toskey=${8:False}",
             "\t$0)"
         ],
-        "description": "keymap item. more info:https://docs.blender.org/api/current/bpy.types.KeyMapItem.html#bpy.types.KeyMapItem"
+        "description": "keymap item [more info](https://docs.blender.org/api/current/bpy.types.KeyMapItem.html#bpy.types.KeyMapItem)"
     },    
     "keymap": {
         "prefix": "keymaps",
@@ -102,7 +102,7 @@
             "\t\twm.keyconfigs.addon.keymaps.remove(km)",
             "\taddon_keymaps.clear()"
         ],
-        "description": "Keymaps"
+        "description": "Register and unregister keymaps"
     },
     "menu": {
         "prefix": "menu",
@@ -115,7 +115,7 @@
             "\t\tlayout = self.layout",
             "\t\t$0"
         ],
-        "description": "menu"
+        "description": "Menu"
     },
 
     "operator_simple":{
@@ -136,7 +136,7 @@
             "\t\treturn {\"FINISHED\"}",
             ""
         ],
-        "description": "operator function class, without any imports or added functions"
+        "description": "Operator function class, without any imports or added functions"
     },
     "modal_operator":{
         "prefix": "operator modal",
@@ -166,10 +166,10 @@
             "\t\treturn {\"RUNNING_MODAL\"}",
             ""
         ],
-        "description": "modal operator function, without any imports or added functions"
+        "description": "Modal operator function, without any imports or added functions"
     },
     "modal_operator_draw":{
-            "prefix": "operator modal",
+            "prefix": "operator modal draw",
             "body": [
                 "class ${1:MyClassName}(bpy.types.Operator):",
                 "\tbl_idname = \"${2:my_operator.my_class_name}\"",
@@ -207,9 +207,9 @@
                 "",
                 "\tdef draw_callback_px(tmp, self, context):",
                 "\t\tpass",
-                ""\t\t\t  
+                ""
             ],
-            "description": "modal operator draw function, without any imports or added functions"
+            "description": "Modal operator draw function, without any imports or added functions"
     },
     "panel": {
         "prefix": "panel",
@@ -238,7 +238,7 @@
             "\t\tpie = self.layout.menu_pie()",
             "\t\t$0"
         ],
-        "description": "Pie menu"
+        "description": "Pie Menu"
     },
     "register_functions": {
         "prefix": "register",
@@ -252,7 +252,7 @@
             "if __name__ == \"__main__\":",
             "\tregister()"
         ],
-        "description": "register and unregister functions"
+        "description": "Register and Unregister Module"
     },
     "template_addon_add_object":{
         "prefix": "template addon",
@@ -1866,7 +1866,7 @@
             "if __name__ == \"__main__\":",
             "\tregister()"
         ],
-        "description": "This Example script demonstrates a dynamic EnumProperty with custom icons."
+        "description": "This example script demonstrates a dynamic EnumProperty with custom icons."
     },
     "template_ui_previews_custom_icon":{
         "prefix": "template ui previews",
