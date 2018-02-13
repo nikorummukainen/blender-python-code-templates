@@ -361,7 +361,7 @@
             "# This example also shows how you can parse command line options to scripts.",
             "#",
             "# Example usage for this test.",
-            "#  blender --background --factory-startup --python $HOME/background_job.py -- \\",
+            "#  blender --background --factory-startup --python \\$HOME/background_job.py -- \\",
             "#          --text=\"Hello World\" \\",
             "#          --render=\"/tmp/hello\" \\",
             "#          --save=\"/tmp/hello.blend\"",
