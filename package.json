@@ -8,7 +8,10 @@
     "icon": "images/icon.png",
     "repository": {
         "type": "git",
-        "url": "https://github.com/nikorummukainen/blender-python-code-templates.git"
+        "url": "https://github.com/nikorummukainen/blender-python-code-templates"
+    },
+    "bugs": {
+        "url": "https://github.com/nikorummukainen/blender-python-code-templates/issues"
     },
     "engines": {
         "vscode": "^1.19.0"
