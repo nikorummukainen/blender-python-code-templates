@@ -4,11 +4,14 @@
     "description": "Templates for Blender Addon development. Templates translated are from Blender python templates and from Jacques Lucke's Code Autocomplete addon with my own additions.",
     "version": "0.9.4",
     "publisher": "blenderfreetimeprojects",
-    "lisence": "SEE LICENSE IN file ./LISENCE",
+    "license": "MIT",
     "icon": "images/icon.png",
     "repository": {
         "type": "git",
-        "url": "https://github.com/nikorummukainen/blender-python-code-templates.git"
+        "url": "https://github.com/nikorummukainen/blender-python-code-templates"
+    },
+    "bugs": {
+        "url": "https://github.com/nikorummukainen/blender-python-code-templates/issues"
     },
     "engines": {
         "vscode": "^1.19.0"
@@ -23,5 +26,8 @@
                 "path": "./snippets/snippets.json"
             }
         ]
+    },
+    "scripts": {
+       "table": "node helpers/documentation_table.js"
     }
 }
