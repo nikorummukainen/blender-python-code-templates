@@ -7,7 +7,7 @@
             "\t\"description\": \"${2:Description of this addon}\",",
             "\t\"author\": \"${3:Authors name}\",",
             "\t\"version\": (${4:0, 0, 1}),",
-            "\t\"blender\": (${5:2, 9, 0}),",
+            "\t\"blender\": (${5:2, 79, 0}),",
             "\t\"location\": \"${6:View3D}\",",
             "\t\"warning\": \"This addon is still in development.\",",
             "\t\"wiki_url\": \"\",",
